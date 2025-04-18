@@ -6,7 +6,6 @@ Bem-vindo ao TechTaste, seu aplicativo de delivery de comida! Com o TechTaste, v
 
 *   **Exploração de Categorias:** Navegue por diferentes categorias de comida, como pizzas, hambúrgueres, sushi, comida vegetariana e muito mais.
 *   **Descoberta de Restaurantes:** Encontre restaurantes perto de você ou explore opções em outras áreas. Veja menus, horários de funcionamento e avaliações de outros usuários.
-*   **Gerenciamento de Pedidos:** Acompanhe o status dos seus pedidos em tempo real, desde o preparo até a entrega.
 *   **Simulação de Checkout:** Experimente o fluxo de um pedido, incluindo a adição de itens ao carrinho!
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
