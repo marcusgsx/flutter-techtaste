@@ -1,12 +1,13 @@
-# myapp
+# TechTaste - Seu Aplicativo de Delivery de Comida :fork_and_knife:
 
-A new Flutter project.
+Bem-vindo ao TechTaste, seu aplicativo de delivery de comida! Com o TechTaste, você pode explorar uma variedade de categorias de restaurantes, descobrir novos lugares para comer, gerenciar seus pedidos e até mesmo simular o processo de checkout e pagamento.
 
-## Getting Started
+## Principais Funcionalidades :hammer:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+*   **Exploração de Categorias:** Navegue por diferentes categorias de comida, como pizzas, hambúrgueres, sushi, comida vegetariana e muito mais.
+*   **Descoberta de Restaurantes:** Encontre restaurantes perto de você ou explore opções em outras áreas. Veja menus, horários de funcionamento e avaliações de outros usuários.
+*   **Gerenciamento de Pedidos:** Acompanhe o status dos seus pedidos em tempo real, desde o preparo até a entrega.
+*   **Simulação de Checkout:** Experimente o fluxo de um pedido, incluindo a adição de itens ao carrinho!
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
